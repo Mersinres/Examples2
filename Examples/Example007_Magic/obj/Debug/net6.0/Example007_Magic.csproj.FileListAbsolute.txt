@@ -1,0 +1,15 @@
+C:\Disk D\GeekBrains\Examples_All\Examples2\Examples\Example007_Magic\obj\Debug\net6.0\Example007_Magic.csproj.AssemblyReference.cache
+C:\Disk D\GeekBrains\Examples_All\Examples2\Examples\Example007_Magic\obj\Debug\net6.0\Example007_Magic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Disk D\GeekBrains\Examples_All\Examples2\Examples\Example007_Magic\obj\Debug\net6.0\Example007_Magic.AssemblyInfoInputs.cache
+C:\Disk D\GeekBrains\Examples_All\Examples2\Examples\Example007_Magic\obj\Debug\net6.0\Example007_Magic.AssemblyInfo.cs
+C:\Disk D\GeekBrains\Examples_All\Examples2\Examples\Example007_Magic\obj\Debug\net6.0\Example007_Magic.csproj.CoreCompileInputs.cache
+C:\Disk D\GeekBrains\Examples_All\Examples2\Examples\Example007_Magic\bin\Debug\net6.0\Example007_Magic.exe
+C:\Disk D\GeekBrains\Examples_All\Examples2\Examples\Example007_Magic\bin\Debug\net6.0\Example007_Magic.deps.json
+C:\Disk D\GeekBrains\Examples_All\Examples2\Examples\Example007_Magic\bin\Debug\net6.0\Example007_Magic.runtimeconfig.json
+C:\Disk D\GeekBrains\Examples_All\Examples2\Examples\Example007_Magic\bin\Debug\net6.0\Example007_Magic.dll
+C:\Disk D\GeekBrains\Examples_All\Examples2\Examples\Example007_Magic\bin\Debug\net6.0\Example007_Magic.pdb
+C:\Disk D\GeekBrains\Examples_All\Examples2\Examples\Example007_Magic\obj\Debug\net6.0\Example007_Magic.dll
+C:\Disk D\GeekBrains\Examples_All\Examples2\Examples\Example007_Magic\obj\Debug\net6.0\refint\Example007_Magic.dll
+C:\Disk D\GeekBrains\Examples_All\Examples2\Examples\Example007_Magic\obj\Debug\net6.0\Example007_Magic.pdb
+C:\Disk D\GeekBrains\Examples_All\Examples2\Examples\Example007_Magic\obj\Debug\net6.0\Example007_Magic.genruntimeconfig.cache
+C:\Disk D\GeekBrains\Examples_All\Examples2\Examples\Example007_Magic\obj\Debug\net6.0\ref\Example007_Magic.dll
