@@ -1,0 +1,15 @@
+C:\Disk D\GeekBrains\Examples_All\Examples2\Examples\Example005_ConditionIfElse\bin\Debug\net6.0\Example005_ConditionIfElse.exe
+C:\Disk D\GeekBrains\Examples_All\Examples2\Examples\Example005_ConditionIfElse\bin\Debug\net6.0\Example005_ConditionIfElse.deps.json
+C:\Disk D\GeekBrains\Examples_All\Examples2\Examples\Example005_ConditionIfElse\bin\Debug\net6.0\Example005_ConditionIfElse.runtimeconfig.json
+C:\Disk D\GeekBrains\Examples_All\Examples2\Examples\Example005_ConditionIfElse\bin\Debug\net6.0\Example005_ConditionIfElse.dll
+C:\Disk D\GeekBrains\Examples_All\Examples2\Examples\Example005_ConditionIfElse\bin\Debug\net6.0\Example005_ConditionIfElse.pdb
+C:\Disk D\GeekBrains\Examples_All\Examples2\Examples\Example005_ConditionIfElse\obj\Debug\net6.0\Example005_ConditionIfElse.csproj.AssemblyReference.cache
+C:\Disk D\GeekBrains\Examples_All\Examples2\Examples\Example005_ConditionIfElse\obj\Debug\net6.0\Example005_ConditionIfElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Disk D\GeekBrains\Examples_All\Examples2\Examples\Example005_ConditionIfElse\obj\Debug\net6.0\Example005_ConditionIfElse.AssemblyInfoInputs.cache
+C:\Disk D\GeekBrains\Examples_All\Examples2\Examples\Example005_ConditionIfElse\obj\Debug\net6.0\Example005_ConditionIfElse.AssemblyInfo.cs
+C:\Disk D\GeekBrains\Examples_All\Examples2\Examples\Example005_ConditionIfElse\obj\Debug\net6.0\Example005_ConditionIfElse.csproj.CoreCompileInputs.cache
+C:\Disk D\GeekBrains\Examples_All\Examples2\Examples\Example005_ConditionIfElse\obj\Debug\net6.0\Example005_ConditionIfElse.dll
+C:\Disk D\GeekBrains\Examples_All\Examples2\Examples\Example005_ConditionIfElse\obj\Debug\net6.0\refint\Example005_ConditionIfElse.dll
+C:\Disk D\GeekBrains\Examples_All\Examples2\Examples\Example005_ConditionIfElse\obj\Debug\net6.0\Example005_ConditionIfElse.pdb
+C:\Disk D\GeekBrains\Examples_All\Examples2\Examples\Example005_ConditionIfElse\obj\Debug\net6.0\Example005_ConditionIfElse.genruntimeconfig.cache
+C:\Disk D\GeekBrains\Examples_All\Examples2\Examples\Example005_ConditionIfElse\obj\Debug\net6.0\ref\Example005_ConditionIfElse.dll
